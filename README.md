@@ -41,8 +41,11 @@ This project is a modern, user-friendly inventory control system developed with 
 After installation, run the main application script:
 ```bash
 python modern_gui.py
-File Structure
+```
 
+###File Structure
+
+```
 .
 ├── modern_gui.py         # Main application script with CustomTkinter GUI logic
 ├── DATA.txt              # Stores inventory item data (Code#Name#Price#Quantity)
