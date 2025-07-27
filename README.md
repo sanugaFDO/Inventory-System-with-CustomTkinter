@@ -43,6 +43,19 @@ After installation, run the main application script:
 python modern_gui.py
 ```
 
+## Usage Screenshots
+
+Here are some screenshots of the Inventory Management System in action:
+
+### Main Application Window
+![Main Application Window](images/main_menu.png)
+
+### Add Item Dialog
+![Add Item Dialog](images/add_item_dialog.png)
+
+### Search Results
+![Search Results](images/search_results.png)
+
 ### File Structure
 
 ```
