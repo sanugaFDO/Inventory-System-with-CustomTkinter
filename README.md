@@ -28,10 +28,9 @@ This project is a modern, user-friendly inventory control system developed with 
 ### Installation
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Inventory-Control-System-GUI.git](https://github.com/YOUR_USERNAME/Inventory-Control-System-GUI.git)
+    git clone [https://github.com/sanugaFDO/Inventory-System-with-CustomTkinter.git](https://github.com/YOUR_USERNAME/Inventory-Control-System-GUI.git)
     cd Inventory-Control-System-GUI
     ```
-    (Replace `YOUR_USERNAME` with your GitHub username and `Inventory-Control-System-GUI` with your repo name)
 
 2.  **Install dependencies:**
     ```bash
