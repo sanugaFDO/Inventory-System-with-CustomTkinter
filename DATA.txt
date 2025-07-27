@@ -1,0 +1,15 @@
+2#Notebook#60#2
+3#Pencil#10#50
+5#Sharpener#15#12
+6#Scale#20#47
+7#Marker#30#48
+8#Glue#35#50
+9#Scissors#50#50
+10#Highlighter#45#50
+11#Stapler#120#30
+12#Folder#80#50
+13#File#75#50
+14#Calculator#250#50
+15#Sketchbook#100#50
+45#SmartPhone#45000#50
+67#Calculator#8000#43
