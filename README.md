@@ -43,7 +43,7 @@ After installation, run the main application script:
 python modern_gui.py
 ```
 
-###File Structure
+### File Structure
 
 ```
 .
