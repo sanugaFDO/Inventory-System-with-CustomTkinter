@@ -56,6 +56,9 @@ Here are some screenshots of the Inventory Management System in action:
 ### Search Results
 ![Search Results](images/search_results.png)
 
+### Create Bills
+![Create Bills](images/bill_create.png)
+
 ### File Structure
 
 ```
